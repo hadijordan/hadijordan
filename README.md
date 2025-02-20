@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-🔹 18+ years experience in Web Development (Python, PHP and Perl)  
-🔹 Blockchain expertise: Smart Contracts (Solana, Ethereum), DeFi, Web3  
-🔹 Passionate about scalable architectures & decentralized applications
+ 🔹 18+ years experience in Web Development (Python, PHP and Perl)  
+ 🔹 Blockchain expertise: Smart Contracts (Solana, Ethereum), DeFi, Web3  
+ 🔹 Passionate about scalable architectures & decentralized applications
 
 - 💬 Ask me about **Blockchain Tech**
 
