@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammad ABD ELHADI</h1>
-<h3 align="center">A passionate backend and blockchain developer from Jordan</h3>
+<h3 align="center">Senior Backend & Blockchain Developer</h3>
 
 - 🔭 I’m currently working on **Built automated trading bots & smart contracts on Solana.**
 
 - 🌱 I’m currently learning **AI/ML**
+
+🔹 18+ years experience in Web Development (Python, PHP and Perl)  
+🔹 Blockchain expertise: Smart Contracts (Solana, Ethereum), DeFi, Web3  
+🔹 Passionate about scalable architectures & decentralized applications
 
 - 💬 Ask me about **Blockchain Tech**
 
