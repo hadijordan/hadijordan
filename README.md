@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad ABD ELHADI</h1>
 <h3 align="center">A passionate backend and blockchain developer from Jordan</h3>
 
-- 🔭 I’m currently working on **Solana Bot Sniper**
+- 🔭 I’m currently working on **Built automated trading bots & smart contracts on Solana.**
 
 - 🌱 I’m currently learning **AI/ML**
 
